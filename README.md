@@ -1,6 +1,6 @@
-"""
+'''
 p10k configure 
-""" 
+'''
 
 # Powerlevel10k
 [![Gitter](https://badges.gitter.im/powerlevel10k/community.svg)](
